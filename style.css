@@ -67,7 +67,7 @@ nav li {
 }
 
 /* Estilizando os links de navegação */
-.nav a {
+nav a {
     text-decoration: none; /* Remove a sublinhado dos links */
     color: #070202; /* Cor do texto dos links */
     font-weight: bold; /* Deixa o texto dos links em negrito */
